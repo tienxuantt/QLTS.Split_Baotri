@@ -1,0 +1,10 @@
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\bin\Debug\QLTS.Split_Baotri.exe.config
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\bin\Debug\QLTS.Split_Baotri.exe
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\bin\Debug\QLTS.Split_Baotri.pdb
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\obj\Debug\QLTS.Split_Baotri.csproj.AssemblyReference.cache
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\obj\Debug\QLTS.Split_Baotri.Form1.resources
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\obj\Debug\QLTS.Split_Baotri.Properties.Resources.resources
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\obj\Debug\QLTS.Split_Baotri.csproj.GenerateResource.cache
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\obj\Debug\QLTS.Split_Baotri.csproj.CoreCompileInputs.cache
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\obj\Debug\QLTS.Split_Baotri.exe
+D:\QLTS.Split_Baotri\QLTS.Split_Baotri\obj\Debug\QLTS.Split_Baotri.pdb
